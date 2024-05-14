@@ -101,6 +101,8 @@ Note:
 
 ## 2.3 C++ Constants/Literals
 
+![alt text](image-5.png)
+
 Constants are similar to variables except that we can’t change their value during the code execution.
 
 In C++, we can use the const keyword to declare a constant. The basic syntax for creating a constant is:
